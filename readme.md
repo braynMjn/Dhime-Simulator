@@ -4,4 +4,4 @@ This a dhime simulator which is similar to a drum pad. Use headphones/earphones 
 
 #Demo
 
-Link : braynMjn.github.io/Dhime-Simulator-DS-
+Link : https://braynmjn.github.io/Dhime-Simulator/
